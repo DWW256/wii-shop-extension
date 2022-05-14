@@ -123,6 +123,7 @@ barkbox.com
 barkshop.com
 bartelldrugs.com
 batonrouge.craigslist.org
+batteryjunction.com
 battlecreek.craigslist.org
 bauhaus.at
 bauhaus.dk
@@ -225,6 +226,7 @@ carsome.id
 casablanca.craigslist.org
 casasbahia.com.br
 caseking.de
+castlemaniagames.com
 castorama.pl
 catskills.craigslist.org
 cb2.com
@@ -274,6 +276,7 @@ compumundo.com.ar
 computeruniverse.de
 conforama.fr
 conrad.de
+console5.com
 converse.com
 cookeville.craigslist.org
 coolblue.nl
@@ -343,6 +346,7 @@ douglas.de
 dressbarn.com
 dresslink.com
 drmartens.com
+drop.com
 drsquatch.com
 dtlr.com
 dubai.craigslist.org
@@ -653,6 +657,7 @@ kathmandu.co.nz
 kaufland.de
 kenai.craigslist.org
 kenya.craigslist.org
+keyboardco.com
 keys.craigslist.org
 kfzteile24.de
 killeen.craigslist.org
@@ -793,6 +798,7 @@ mattoon.craigslist.org
 maurices.com
 mcallen.craigslist.org
 meadville.craigslist.org
+mechanicalkeyboards.com
 medford.craigslist.org
 mediaexpert.pl
 mediamarkt.de
@@ -1112,6 +1118,7 @@ reiss.com
 rennes.craigslist.org
 reno.craigslist.org
 reserved.com
+retrousb.com
 reuter.de
 reverb.com
 reykjavik.craigslist.org
@@ -1277,6 +1284,7 @@ stjoseph.craigslist.org
 stlouis.craigslist.org
 stockton.craigslist.org
 stokesstores.com
+stoneagegamer.com
 stopandshop.com
 store.acer.com
 store.arduino.cc
